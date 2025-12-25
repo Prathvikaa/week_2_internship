@@ -9,7 +9,7 @@ week_2_internship
 
 ## Overview
 
-During the second week of my internship, my manager asked me to strengthen my backend fundamentals along with understanding basic software design principles. I was asked to learn **FastAPI** for building backend APIs, **Pydantic** for request and response validation, and the core concepts of **SOLID principles** to understand how clean and maintainable software is designed. In addition to this, I dockerized the application to understand deployment basics.
+During the second week of my internship, I focused on backend fundamentals along with understanding basic software design principles. I was asked to learn **FastAPI** for building backend APIs, **Pydantic** for request and response validation, and the core concepts of **SOLID principles** to understand how clean and maintainable software is designed. In addition to this, I dockerized the application to understand deployment basics.
 
 To apply these concepts practically, I worked on an **insurance premium category prediction API**, which takes user details as input and returns a predicted insurance category.
 
